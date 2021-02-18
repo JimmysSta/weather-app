@@ -1,2 +1,2 @@
 # weather-app
- A react application
+ A react application for smartphones
